@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to th1nk3r’s Random Project Page
 
 You can use the [editor on GitHub](https://github.com/0x01-pl/0x01/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
